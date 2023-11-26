@@ -7,15 +7,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  {
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MAOVasconcelos/blog_alura.git"
-    }"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAOVasconcelos/blog_alura.git"
+  },
   "author": "Marcus Aurelius",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/MAOVasconcelos/blog_alura/issues"
+  },
+  "homepage": "https://github.com/MAOVasconcelos/blog_alura#readme",
+  "devDependencies": {}
 }
